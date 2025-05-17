@@ -31,4 +31,5 @@ Organize and search, add, delete articles (using Python, Streamlit, Machine Lear
 ![Screenshot 2025-04-05 140510](https://github.com/user-attachments/assets/b19e0d1f-8ac5-4382-a90d-255ab8b1f3f9)
 ![Screenshot 2025-04-05 140536](https://github.com/user-attachments/assets/2f8bda24-8d12-4f0b-95aa-6c0a1575c5da)
 ![Screenshot 2025-04-05 140802](https://github.com/user-attachments/assets/4e03087e-9e36-4cfd-a280-e6c1db9681b6)
-
+![Screenshot 2025-04-05 140602](https://github.com/user-attachments/assets/10cf8ac3-4cc1-432d-a12f-a5322a33342f)
+![Screenshot 2025-04-05 140733](https://github.com/user-attachments/assets/72652440-c763-4b38-9959-ea94da065c85)
